@@ -1,0 +1,10 @@
+<resources>
+
+	<style name="AppTheme" parent="@style/Theme.AppCompat">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorAccent</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="android:textColor">@color/colorBlack</item>
+	</style>
+
+</resources>

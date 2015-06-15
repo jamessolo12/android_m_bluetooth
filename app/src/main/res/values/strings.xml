@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">BluetoothTester</string>
+
+	<string name="hello_world">This is a basic test app to prove that requesting bluetooth permissions restarts the entire app.</string>
+	<string name="action_settings">Settings</string>
+
+	<string name="dialog_permissions_title">Bluetooth Permissions</string>
+	<string name="dialog_permissions_fine">Permissions already granted, for this test you need to disable them in settings.</string>
+	<string name="dialog_permissions_ok">OK</string>
+</resources>
